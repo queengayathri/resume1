@@ -1,0 +1,51 @@
+{
+  "career":{
+    "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+  },
+  "education":[
+    {
+      "degree":"B-Tech (Computer Science & Engineering)",
+      "institute":"Siddhartha College of Engineering",
+      "data":["2015-19","74%"]
+    },
+    {
+      "degree":"Intermediate (M.P.C)",
+      "institute":"Chaitanya junior college",
+      "data":["2013-15","90%"]
+    },
+    {
+      "degree":"S.S.C",
+      "institute":"St.Mary's English Medium High School",
+      "data":["2013-15","93%"]
+    }
+  ],
+  "skills":[
+    {
+      "title":"Programming Language",
+      "set":["Java","C","Python","C++"]
+    },
+    {
+      "title":"Web Technologies",
+      "set":["HTML","CSS","PHP","JavaScript"]
+    },
+    {
+      "title":"Data Bases",
+      "set":["Sql","Oracle","MySql","NoSql"]
+    },
+    {
+      "title":"Operating systems",
+      "set":["Windows","DOS","Linus","mac"]
+    }
+  ],
+  "achievements":[
+    {
+      "achievedData":"Got first Prize in PPT presentation."
+    },
+    {
+      "achievedData":"Got first Prize in Technical Quiz."
+    },
+    {
+      "achievedData":"Got first Prize in Running Race."
+    }
+  ]
+}
